@@ -74,7 +74,10 @@ Created a rich, interactive dashboard that includes:
 - **Key Metrics (Total Individuals, % Smokers, % Drinkers)**
 
 📷 Preview:
-![Dashboard](dashboard_screenshot.png)
+<p align="center">
+  <img src="RiskBehaviorPrediction/PowerBI_Dashboard
+/Dashboard.png" width="1000"/>
+</p>
 
 ---
 
