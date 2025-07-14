@@ -73,17 +73,16 @@ Created a rich, interactive dashboard that includes:
 - **Pie Charts for Smoker vs Drinker Ratio**
 - **Key Metrics (Total Individuals, % Smokers, % Drinkers)**
 
-📷 Preview:
 <p align="center">
-  <img src="RiskBehaviorPrediction/PowerBI_Dashboard
-/Dashboard.png" width="1000"/>
+  <img src="PowerBI_Dashboard/Dashboard.png" width="1000"/>
 </p>
 
 ---
 
 ## 📥 Dataset
 
-- `addiction_population_data.csv`  
+- [`addiction_population_data.csv`](https://www.kaggle.com/datasets/khushikyad001/cigarettes-and-alcohol-addiction?resource=download)  
   A synthetic population dataset with 3,000 records and 25 features related to demographics, habits, and health.
+
 
 ---
